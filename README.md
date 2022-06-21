@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngelitoKun
+- 👋 Hi, I’m Angel Castillo from Veracruz, Mexico, I'm 20 years old and I'm learning web development.
 - 👀 I’m interested in Anime, Videogames, Software.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
